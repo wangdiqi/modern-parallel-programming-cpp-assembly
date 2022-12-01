@@ -15,7 +15,7 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 
 See the file Contributing.md for more information on how you can contribute to this repository.
 
-## addons
+## Convention
 
 | File Name Suffix | Description                             |
 |------------------|-----------------------------------------|
@@ -36,3 +36,9 @@ See the file Contributing.md for more information on how you can contribute to t
 | _Aavx                | Function that uses AVX assembly language instructions     |
 | _Aavx2               | Function that uses AVX2 assembly language instructions    |
 | _Avx512              | Function that uses AVX-512 assembly language instructions |
+
+
+## FAQ
+
+SignExtend16
+ZeroExtend16
